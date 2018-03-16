@@ -56,7 +56,7 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 
   ``` xml
   <ItemGroup>
-    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.2" />
   </ItemGroup>
   ```
 
